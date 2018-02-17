@@ -12,9 +12,10 @@ The detailed program for this course can be found in the file "Agenda.pdf".
 
 The participants will learn:
 
-How to prepare longitudinal data in Stata to use them for sequence analysis in R.
-How to describe and visualize sequences with the powerful and flexible TraMineR package in R
-How to use the outcomes from sequence analysis (distance matrices, measures of turbulence and complexity) in further analysis (cluster analysis; regression analysis; discrepancy analysis; implicative statistic for sequences of typical states; sequence analysis multistate model procedure; multichannel sequence analysis).
+- How to prepare longitudinal data in Stata to use them for sequence analysis in R.
+- How to describe and visualize sequences with the powerful and flexible TraMineR package in R
+- How to use the outcomes from sequence analysis (distance matrices, measures of turbulence and complexity) in further analysis (cluster analysis; regression analysis; discrepancy analysis; implicative statistic for sequences of typical states; sequence analysis multistate model procedure; multichannel sequence analysis).
+
 In short, the participants will learn all the tools required to conduct and publish their own research applying sequence analysis.
 
 ## **Credits and Acknowledgements**
